@@ -1,2 +1,5 @@
 Hello Mahesh
 demo class
+git addfilename
+git commit -m "commit message"
+git push
